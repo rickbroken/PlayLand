@@ -1,7 +1,6 @@
 # 🎮 PlayLand
 
-PlayLand es una aplicación móvil desarrollada en Kotlin utilizando Android Studio, que reúne cuatro videojuegos clásicos y divertidos en una sola app.  
-El objetivo del proyecto es ofrecer entretenimiento sencillo y dinámico desde dispositivos Android.
+PlayLand es una aplicación móvil desarrollada en Kotlin utilizando Android Studio, que reúne cuatro videojuegos clásicos y divertidos en una sola app. El objetivo del proyecto es ofrecer entretenimiento sencillo y dinámico desde dispositivos Android.
 
 ---
 
