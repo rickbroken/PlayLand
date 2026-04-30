@@ -50,29 +50,14 @@ Versión clásica del juego Snake donde el jugador controla una serpiente que cr
 
 - Kotlin
 - Android Studio
-- XML para interfaces gráficas
-- Canvas y lógica de videojuegos
 - Gradle
 
 ---
+## 👥 Equipo de Desarrollo
 
-# 📂 Estructura del Proyecto
+- **Kristel Geraldine Villalta Porras** 
+- **Cristopher Amaru Rodriguez Arauz**
+- **William Alberto Torres Moreira** 
+- **Walter Javier López Villega**
 
-```plaintext
-PlayLand/
-│
-├── app/
-│   ├── java/
-│   │   ├── catchfood/
-│   │   ├── flappybird/
-│   │   ├── tictactoe/
-│   │   └── snake/
-│   │
-│   ├── res/
-│   │   ├── layout/
-│   │   ├── drawable/
-│   │   └── values/
-│   │
-│   └── AndroidManifest.xml
-│
-└── build.gradle
+---
