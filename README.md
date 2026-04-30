@@ -26,7 +26,7 @@ Inspirado en el clásico juego arcade donde el jugador controla un pájaro que d
 
 ---
 
-## ❌⭕ Tic Tac Toe
+## ❌ Tic Tac Toe ⭕
 El clásico juego de tres en raya para dos jugadores.
 
 ### Características
